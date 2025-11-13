@@ -1,0 +1,5 @@
+[project]
+name = "lecture_1_project"
+dependencies = [
+    "colorama"
+]
